@@ -112,3 +112,5 @@ function(failedCount) {
   // your logic
 }
 ```
+
+I made this in my spare time, but if you enjoyed the game and feel like buying me coffee, you can donate at my Ethereum Network address: 0x0f57DCC50EF6F5D7a6102d3fA7Bb7a2ED738aeAE. Thank you very much!
